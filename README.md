@@ -11,7 +11,7 @@
 - 🌱 I'm learning **Artificial Intelligence & Machine Learning Models**
 - 🧮 I have a strong foundation in **Data Structures & Algorithms (DSA) using Java**
 - 💬 Ask me about **React, Node.js, Java, and Version Control**
-- 📫 How to reach me: **nagaralprakash0@gmail.com**
+- 📫 How to reach me: **https://gt-mocha.vercel.app**
 - ⚡ Fun fact: **I love solving complex problems and building scalable applications**
 
 ---
