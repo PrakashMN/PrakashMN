@@ -12,7 +12,7 @@
 - 🧮 I have a strong foundation in **Data Structures & Algorithms (DSA) using Java**
 - 💬 Ask me about **React, Node.js, Java, and Version Control**
 - 🚀 Founder of  <a href="https://themonsterlabs.in">**The Monster Labs**</a>
-- 📫 How to reach me: <a href="https://prakashnagaral.me">Portfolio</a>
+- 📫 How to reach me: <a href="https://prakashnagaral.me">**Portfolio**</a>
 - ⚡ Fun fact: **I love solving complex problems and building scalable applications**
 
 ---
@@ -65,14 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PrakashMN&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=PrakashMN&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashMN&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrakashMN&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
