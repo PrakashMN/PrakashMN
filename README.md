@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrakashMN&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PrakashMN&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrakashMN&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrakashMN&theme=radical" alt="Top Languages" height="170"/>
 </p>
 
