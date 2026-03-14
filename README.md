@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=127ded&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakash+Nagaral;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
