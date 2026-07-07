@@ -11,7 +11,7 @@
 - 🌱 I'm learning **Artificial Intelligence & Machine Learning Models**
 - 🧮 I have a strong foundation in **Data Structures & Algorithms (DSA) using Java**
 - 💬 Ask me about **React, Node.js, Java, and Version Control**
-- 🚀 Founder of  <a href="https://themonsterlabs.in">**The Monster Labs**</a>
+- 🚀 Founder of  <a href="https://themonsterlabs.in" target="_blank">**The Monster Labs**</a>
 - 📫 How to reach me: <a href="https://prakashnagaral.me">**Portfolio**</a>
 - ⚡ Fun fact: **I love solving complex problems and building scalable applications**
 
