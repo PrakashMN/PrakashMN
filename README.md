@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/PrakashMN">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakashMN&theme=radical" alt="GitHub Stats" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrakashMN&theme=radical" alt="GitHub Stats" height="170" />
   </a>
   <a href="https://github.com/PrakashMN">
     <img src="https://streak-stats.demolab.com/?user=PrakashMN&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
