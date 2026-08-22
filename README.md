@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=127ded&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakash+Nagaral;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=127ded&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakash+Nagaral;Full+Stack+Web+Developer;Java+%7C+React+%7C+Node.js;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +10,7 @@
 - 🌱 I'm learning **Artificial Intelligence & Machine Learning Models**
 - 🧮 I have a strong foundation in **Data Structures & Algorithms (DSA) using Java**
 - 💬 Ask me about **React, Node.js, Java, and Version Control**
-- 🚀 Building  <a href="https://themonsterlabs.in" target="_blank">**The Monster Labs**</a>
+- 🚀 Building <a href="https://themonsterlabs.in" target="_blank">**The Monster Labs**</a>
 - 📫 How to reach me: <a href="https://prakashnagaral.me">**Portfolio**</a>
 - ⚡ Fun fact: **I love solving complex problems and building scalable applications**
 
@@ -62,9 +61,16 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrakashMN&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrakashMN&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrakashMN&theme=radical" alt="Top Languages" height="170"/>
+  <a href="https://github.com/PrakashMN">
+    <img src="https://github-readme-stats.vercel.app/api?username=PrakashMN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/PrakashMN">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashMN&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrakashMN&theme=radical" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -72,13 +78,13 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashMN&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashMN&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
