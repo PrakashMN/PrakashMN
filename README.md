@@ -62,10 +62,10 @@
 
 <p align="center">
   <a href="https://github.com/PrakashMN">
-    <img src="https://github-readme-stats.vercel.app/api?username=PrakashMN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakashMN&theme=radical" alt="GitHub Stats" height="170" />
   </a>
   <a href="https://github.com/PrakashMN">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashMN&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+    <img src="https://streak-stats.demolab.com/?user=PrakashMN&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
   </a>
 </p>
 
