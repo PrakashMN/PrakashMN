@@ -75,10 +75,14 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashMN&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://raw.githubusercontent.com/PrakashMN/PrakashMN/main/profile-3d-contrib/profile-night-green.svg"
+    width="900"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
